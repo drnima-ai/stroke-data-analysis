@@ -61,8 +61,6 @@ Key areas of focus:
 - **Anomalies**: Removed rare category "Other" in `gender`
 - **Dropped**: Irrelevant `id` column
 - **Encoding**: One-Hot for categorical variables
-- **Scaling**: StandardScaler applied to numeric fields
-
 ---
 
 ## ✨ Key Insights from the Analysis
